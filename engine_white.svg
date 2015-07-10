@@ -11,11 +11,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3904"
    sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="744.09448"
    height="1052.3622"
    version="1.0"
-   sodipodi:docname="engine.svg"
+   sodipodi:docname="engine_white.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/src_install/lvee/2008/logo2008.png"
    inkscape:export-xdpi="303.60001"
@@ -85,8 +85,8 @@
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="997"
-     inkscape:window-width="1400"
+     inkscape:window-height="1056"
+     inkscape:window-width="1871"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -98,16 +98,17 @@
      id="base"
      inkscape:zoom="0.83039936"
      inkscape:cx="316.94219"
-     inkscape:cy="498.62805"
-     inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:cy="739.47602"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
      inkscape:current-layer="svg3904"
      width="744.09449px"
      height="1052.3622px"
      showgrid="false"
      inkscape:window-maximized="1" />
   <g
-     id="g2999">
+     id="g2999"
+     transform="translate(20,-200)">
     <path
        inkscape:connector-curvature="0"
        id="rect3820"
@@ -120,7 +121,7 @@
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(1.1196396,0,0,1.1996139,194,222.79108)"
-       d="m 157.19344,149.69075 a 17.86289,16.672031 0 1 1 -35.72578,0 17.86289,16.672031 0 1 1 35.72578,0 z"
+       d="m 157.19344,149.69075 c 0,9.20771 -7.99749,16.67203 -17.86289,16.67203 -9.8654,0 -17.86289,-7.46432 -17.86289,-16.67203 0,-9.20771 7.99749,-16.67203 17.86289,-16.67203 9.8654,0 17.86289,7.46432 17.86289,16.67203 z"
        sodipodi:ry="16.672031"
        sodipodi:rx="17.86289"
        sodipodi:cy="149.69075"
