@@ -17,9 +17,11 @@
    version="1.0"
    sodipodi:docname="green_white_.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/src_install/lvee/2008/logo2008.png"
+   inkscape:export-filename="green_white_.png"
    inkscape:export-xdpi="303.60001"
    inkscape:export-ydpi="303.60001">
+  <title
+     id="title3057">LVEE</title>
   <metadata
      id="metadata3909">
     <rdf:RDF>
@@ -28,8 +30,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>LVEE</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>lvee</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>LVEE</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>lvee</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://github.com/lvee/logo</dc:source>
+        <dc:language>English</dc:language>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>LVEE</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>LVEE</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2005, 2015</dc:date>
+        <dc:identifier>lvee</dc:identifier>
+        <dc:relation>LVEE</dc:relation>
+        <dc:description>Logo of the International Conference LVEE (Linux Vacation / Eastern Europe)</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <defs
@@ -97,7 +149,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="0.83972969"
-     inkscape:cx="379.71919"
+     inkscape:cx="-98.410866"
      inkscape:cy="562.00492"
      inkscape:window-x="49"
      inkscape:window-y="24"
@@ -107,7 +159,8 @@
      showgrid="false"
      inkscape:window-maximized="1" />
   <g
-     id="g3232">
+     id="g3232"
+     transform="translate(0,-454.66)">
     <g
        transform="matrix(0.66666667,0,0,0.66666667,-76.666667,372.7844)"
        id="g3871">
