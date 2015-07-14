@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3904"
+   id="green_black"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    width="744.09448"
    height="1052.3622"
    version="1.0"
-   sodipodi:docname="green_black_.svg"
+   sodipodi:docname="green_black.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="green_black_.png"
    inkscape:export-xdpi="303.60001"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,13 +101,14 @@
      inkscape:cy="562.00492"
      inkscape:window-x="49"
      inkscape:window-y="24"
-     inkscape:current-layer="svg3904"
+     inkscape:current-layer="green_black"
      width="744.09449px"
      height="1052.3622px"
      showgrid="false"
      inkscape:window-maximized="1" />
   <g
-     id="g4517">
+     id="g4517"
+     transform="translate(0,-204.66)">
     <g
        transform="translate(0,40.66601)"
        id="g3871">

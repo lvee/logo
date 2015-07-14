@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3904"
+   id="blue_black_"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    width="744.09448"
@@ -101,13 +101,14 @@
      inkscape:cy="562.00492"
      inkscape:window-x="49"
      inkscape:window-y="24"
-     inkscape:current-layer="svg3904"
+     inkscape:current-layer="blue_black_"
      width="744.09449px"
      height="1052.3622px"
      showgrid="false"
      inkscape:window-maximized="1" />
   <g
-     id="g4290">
+     id="g4290"
+     transform="translate(-2.5744722e-7,-454.66)">
     <path
        sodipodi:nodetypes="cssscccscccsssccccsccsssccssccssccccsssccssccssccssccsssccssccsssccsssssccsssccsssc"
        style="fill:#0099ff;fill-opacity:1"

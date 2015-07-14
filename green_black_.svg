@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3904"
+   id="green_black_"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    width="744.09448"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,13 +101,14 @@
      inkscape:cy="562.00492"
      inkscape:window-x="49"
      inkscape:window-y="24"
-     inkscape:current-layer="svg3904"
+     inkscape:current-layer="green_black_"
      width="744.09449px"
      height="1052.3622px"
      showgrid="false"
      inkscape:window-maximized="1" />
   <g
-     id="g4050">
+     id="g4050"
+     transform="translate(0,-454.66)">
     <g
        transform="matrix(0.66666667,0,0,0.66666667,-76.666667,372.7844)"
        id="g3871">
